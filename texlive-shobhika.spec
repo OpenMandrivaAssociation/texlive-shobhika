@@ -1,6 +1,6 @@
 Name:		texlive-shobhika
 Version:	50555
-Release:	1
+Release:	2
 Summary:	An OpenType Devanagari font designed for scholars
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shobhika
