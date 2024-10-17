@@ -3,7 +3,7 @@ Version:	50555
 Release:	2
 Summary:	An OpenType Devanagari font designed for scholars
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shobhika
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/shobhika
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/shobhika.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/shobhika.doc.r%{version}.tar.xz
